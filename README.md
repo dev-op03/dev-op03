@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Peace
 
-<h3 align="center">💙 Flutter Developer • ☕ Java Spring Boot Developer • ⛓️ Aspiring Web3 Developer</h3>
+<h3 align="center">💙 Flutter Developer • ☕ Java Spring Boot Developer • ⛓️ Web3 Developer</h3>
 
 <p align="center">
   <em>Building scalable mobile applications, secure backend systems, and exploring the future of blockchain technology.</em>
@@ -45,7 +45,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### 📱 Mobile Development
 
