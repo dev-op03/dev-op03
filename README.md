@@ -1,4 +1,3 @@
-```markdown
 # 👋 Hi, I'm Peace
 
 <h3 align="center">💙 Flutter Developer • ☕ Java Spring Boot Developer • ⛓️ Aspiring Web3 Developer</h3>
@@ -137,4 +136,3 @@
 ⭐ **Thanks for stopping by! Feel free to explore my repositories and don't forget to leave a star if you find something useful.**
 
 </div>
-```
